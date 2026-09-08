@@ -1,4 +1,4 @@
-const path = require("node:path");
+;
 const { compileStrapi, createStrapi } = require("@strapi/strapi");
 const fs = require("node:fs");
 
